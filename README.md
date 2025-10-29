@@ -1,5 +1,3 @@
-#git 
-
 ## Autores
 
 -Jose Cano
